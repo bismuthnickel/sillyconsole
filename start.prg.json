@@ -1,0 +1,4 @@
+[
+    "touch ONSAVING.txt",
+    "edit ONSAVING.txt if you are reading this, you may want to know how to save your file system! Well it's quite simple. Go to your inspect element console and type the following command. \n\nJSON.stringify(Console.fileSystem);\n\nThis will print out a string. Copy this and save it. In the future, to load this string, just type this command. \n\nConsole.fileSystem = `your string`;\n\n Make sure you keep the little `` things, they make sure your string is interpreted as one. Tschüss!"
+]

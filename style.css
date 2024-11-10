@@ -1,0 +1,20 @@
+:root {
+	font-family: "Courier New",monospace;
+}
+
+#console {
+	width: 600px;
+	height: 450px;
+	background-color: #000;
+	color: #0F0;
+	padding-right: 0.5em;
+	overflow-x: visible;
+    overflow-y: auto;
+	word-wrap: break-word;
+	scrollbar-color: #0F0 #000;
+	scrollbar-width: thin;
+}
+
+input[type="text"] {
+	width:600px;
+}
